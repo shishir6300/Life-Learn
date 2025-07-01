@@ -62,7 +62,6 @@ Additional files manage routing, layouts, and app configuration.
 **⚙️Technology Stack (Essential Only)**:
 * **React Native + Expo** — Cross-platform mobile app development
 * **TypeScript** — Strong typing for reliable, scalable code
-* **AsyncStorage** — Local storage of user sessions and game data
 * **Expo Router** — Simplified file-based navigation
 * **Lucide React Native** — Modern iconography for a polished UI
 
