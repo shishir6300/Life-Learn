@@ -1,4 +1,4 @@
-**LifeLearn – Moulding Through Fun**, a gamified learning platform. Here's a complete, detailed project description draft as you requested:
+**LifeLearn – Moulding Through Fun**, a gamified learning platform
 
 
 # 🎓 LifeLearn — Moulding Through Fun
